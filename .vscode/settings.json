@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.csv": "xml",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp"
+    }
+}
