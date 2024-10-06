@@ -4,6 +4,7 @@
         "*.csv": "xml",
         "iostream": "cpp",
         "iosfwd": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "ostream": "cpp"
     }
 }
