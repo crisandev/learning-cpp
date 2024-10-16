@@ -1,0 +1,8 @@
+# ninja log v6
+18	611	7507948626129726	CMakeFiles/learning_cpp.dir/poo/persona.cpp.obj	52707cbef9efbf2c
+6	624	7507948626009668	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
+625	880	7507948632187576	learning_cpp.exe	544566078df5fa2f
+25	595	7507955377655148	CMakeFiles/learning_cpp.dir/poo/Estudiante.cpp.obj	4fab465727c61c94
+15	629	7507955377554682	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
+19	512	7507955879877716	CMakeFiles/learning_cpp.dir/poo/Estudiante.cpp.obj	4fab465727c61c94
+512	644	7507955884802020	learning_cpp.exe	229bd607bd2640ff

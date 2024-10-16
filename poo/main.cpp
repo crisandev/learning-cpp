@@ -1,3 +1,4 @@
+#include "Estudiante.h"
 #include "persona.h"
 
 int main() {
@@ -12,6 +13,12 @@ int main() {
     persona2->setTelefono("8294942222");
 
     persona->saludar(persona2);
+    Estudiante *estudiante = new Estudiante();
+    estudiante->setNombre("Marcos");
+    estudiante->setApellido("Garcia");
+    estudiante->setMatricula("2021-1819");
+
+    cout << estudiante->getNombre() << " " << estudiante->getApellido() << " " << estudiante->getMatricula() << endl;
     delete persona;
     delete persona2;
 
