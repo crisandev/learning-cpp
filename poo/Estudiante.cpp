@@ -9,3 +9,7 @@ Estudiante::Estudiante() {
 
 Estudiante::~Estudiante() {
 }
+
+void Estudiante::saludar(Persona *persona) {
+    cout << "Saludando como estudiante" << endl;
+}

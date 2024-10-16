@@ -1,8 +1,16 @@
 # ninja log v6
-18	611	7507948626129726	CMakeFiles/learning_cpp.dir/poo/persona.cpp.obj	52707cbef9efbf2c
-6	624	7507948626009668	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
-625	880	7507948632187576	learning_cpp.exe	544566078df5fa2f
-25	595	7507955377655148	CMakeFiles/learning_cpp.dir/poo/Estudiante.cpp.obj	4fab465727c61c94
-15	629	7507955377554682	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
-19	512	7507955879877716	CMakeFiles/learning_cpp.dir/poo/Estudiante.cpp.obj	4fab465727c61c94
-512	644	7507955884802020	learning_cpp.exe	229bd607bd2640ff
+16	559	7507983548226638	CMakeFiles/learning_cpp.dir/poo/persona.cpp.obj	52707cbef9efbf2c
+21	515	7507988830951219	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
+517	703	7507988835908036	learning_cpp.exe	229bd607bd2640ff
+24	571	7507983548307068	CMakeFiles/learning_cpp.dir/poo/Estudiante.cpp.obj	4fab465727c61c94
+28	107	7507990719089705	CMakeFiles/learning_cpp.dir/poo/Asignatura.cpp.obj	31d6e63e7b9b37f3
+20	470	7507990719009675	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
+471	615	7507990723523730	learning_cpp.exe	620a2ec16989c7ce
+18	432	7507990811809493	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
+435	573	7507990815986151	learning_cpp.exe	620a2ec16989c7ce
+19	482	7507991161247568	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
+483	621	7507991165879666	learning_cpp.exe	620a2ec16989c7ce
+19	449	7507991275360151	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
+450	579	7507991279667544	learning_cpp.exe	620a2ec16989c7ce
+20	444	7507991413671374	CMakeFiles/learning_cpp.dir/poo/main.cpp.obj	15b9bfa02f030c4d
+444	583	7507991417919258	learning_cpp.exe	620a2ec16989c7ce

@@ -10,4 +10,6 @@ add_executable(learning_cpp
     poo/persona.cpp
     poo/persona.h
         poo/Estudiante.cpp
-        poo/Estudiante.h)
+        poo/Estudiante.h
+        poo/Asignatura.cpp
+        poo/Asignatura.h)

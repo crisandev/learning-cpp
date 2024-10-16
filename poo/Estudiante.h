@@ -11,10 +11,12 @@ private:
     string matricula;
 
 public:
-
     Estudiante();
 
     virtual ~Estudiante();
+
+    void saludar(Persona *persona);
+
 
     string getMatricula() const {
         return matricula;
@@ -23,7 +25,6 @@ public:
     void setMatricula(const string &matricula) {
         this->matricula = matricula;
     }
-
 };
 
 

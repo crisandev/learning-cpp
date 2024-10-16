@@ -5,16 +5,18 @@ using namespace std;
 
 
 class Persona {
-  private:
+private:
     string nombre;
     string apellido;
     string telefono;
 
-  public:
+public:
     Persona();
+
     virtual ~Persona();
 
-    void saludar(Persona *persona);
+    virtual void saludar(Persona *persona);
+
 
     string getNombre() const {
         return nombre;

@@ -70,6 +70,13 @@ build CMakeFiles/learning_cpp.dir/poo/Estudiante.cpp.obj: CXX_COMPILER__learning
   OBJECT_DIR = CMakeFiles\learning_cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\learning_cpp.dir\poo
 
+build CMakeFiles/learning_cpp.dir/poo/Asignatura.cpp.obj: CXX_COMPILER__learning_cpp_unscanned_Debug C$:/Users/scris/Desktop/learning-cpp/poo/Asignatura.cpp || cmake_object_order_depends_target_learning_cpp
+  DEP_FILE = CMakeFiles\learning_cpp.dir\poo\Asignatura.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/scris/Desktop/learning-cpp/poo
+  OBJECT_DIR = CMakeFiles\learning_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\learning_cpp.dir\poo
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target learning_cpp
@@ -78,7 +85,7 @@ build CMakeFiles/learning_cpp.dir/poo/Estudiante.cpp.obj: CXX_COMPILER__learning
 #############################################
 # Link the executable learning_cpp.exe
 
-build learning_cpp.exe: CXX_EXECUTABLE_LINKER__learning_cpp_Debug CMakeFiles/learning_cpp.dir/poo/main.cpp.obj CMakeFiles/learning_cpp.dir/poo/persona.cpp.obj CMakeFiles/learning_cpp.dir/poo/Estudiante.cpp.obj
+build learning_cpp.exe: CXX_EXECUTABLE_LINKER__learning_cpp_Debug CMakeFiles/learning_cpp.dir/poo/main.cpp.obj CMakeFiles/learning_cpp.dir/poo/persona.cpp.obj CMakeFiles/learning_cpp.dir/poo/Estudiante.cpp.obj CMakeFiles/learning_cpp.dir/poo/Asignatura.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\learning_cpp.dir
